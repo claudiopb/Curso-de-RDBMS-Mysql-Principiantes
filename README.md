@@ -1,4 +1,4 @@
-# Curso-de-RDBMS-Mysql-Principiantes-
+# Curso-de-RDBMS-Mysql-Principiantes
 
 ## Índice de secciones:
 1. [Instalaciones necesarias](instalaciones-necesarias.md)
