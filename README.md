@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Implementa Bases de Datos Relacioneales en Sistemas Informaticos CBTis-191</h1>
-Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base de Datos   4° sem C CBTis 191
+Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base de Datos  4° sem C CBTis 191
 <h1 align="center">Hola Soy, Claudio Peña Barragán 👋</h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -13,7 +13,7 @@ Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base
 </p>
 
 ## Índice de secciones:
-1 [Crear y eliminar db y tablas](CRUD_1_tabla.md)
+1 [Crear, Lee, Actualiza y Eliminar (CRUD) tablas en una BD](CRUD_1_tabla.md)
 
 ## Familia de comandos SQL
 
