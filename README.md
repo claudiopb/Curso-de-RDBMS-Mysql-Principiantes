@@ -1,5 +1,15 @@
 # Curso-de-RDBMS-Mysql-Principiantes
 
+<a id="readme-top"></a>
+# Practicas-Django-5C
+
+<h1 align="center">Construye Aplicaciones Web CBTis-191</h1>
+Practicas para la construccion de una aplicacion web 5° sem CBTis 191
+<h1 align="center">Hola Soy, Claudio Peña Barragán 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typigong-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CBTis+191+Nicolas+Bravo;Profesor+de+Programacion;Ingeniero+en+Sistemas+Computacionales;Implementa+bases+de+datos;no+relacionales+en+un+sistema+de+información;Programación+en+Python;Programación+en+JavaScript+&#128187;Programación+en+MONGODB;"></a>
+</p>
+
 ## Índice de secciones:
 1 [Crear y eliminar db y tablas](CRUD_1_tabla.md)
 
