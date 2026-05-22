@@ -17,7 +17,7 @@ Practicas  de Creacion, Lectura, Actualizar y Eliminación de Tablas en una Base
 2. [Alter Table (Modidfica la estructura de una tabla)](Alter_table.md)
 3. [Insertar información](insert-into.md)
 4. [Actualizar, borrar, datos](UPDATE_DELETE_TRUNCATE.md)
-5. [Consultas (Query)]
+5. [Consultas (Query)](Consultas_query.md)
 6. [Ejemplos en Clase](scripts_ejemplos)
 
 ## Familia de comandos SQL
